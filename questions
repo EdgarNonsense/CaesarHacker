@@ -1,0 +1,3 @@
+What error message do you get if you delete or comment out translated = '' on line 20?
+What happens if you change translated = translated + SYMBOLS[num] on line 33 to translated = translated + symbol?
+What happens if you enter an unencrypted message into the Caesar cipher hacker program?
